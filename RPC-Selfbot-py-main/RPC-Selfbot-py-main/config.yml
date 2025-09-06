@@ -1,0 +1,31 @@
+# Whether if you're using Replit
+replit: True
+
+# Replit users leave blank but put token in the secrets tab and name the key "TOKEN"
+auth_token: 
+
+#Application ID for at assets
+application_id: 924496144422281316
+
+game: Lynn Cutee
+details: "Love You >3"
+state: "Bbi Lynn~"
+
+elapsed_time: 
+  enable_elapsed_time: True
+
+  # Choice: normal, countdown, custom_start (case insensitive)
+  mode: custom_start
+  # Used if mode = custom_start (Unix Timestamp or ISO 8601 Format)
+  start_time: 2022-06-09T13:54:29+00:00
+  # Used if mode = countdown (Unix Timestamp or ISO 8601 Format)
+  end_time: 1641274963
+
+images: # Images for the Rich Presence
+  enable_images: True
+  
+  #Leave any field blank if not needed
+  large_image_key: hii
+  small_image_key: heart
+  large_image_text: LynnNek
+  small_image_text: Luv >3
